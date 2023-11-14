@@ -7,6 +7,7 @@ aim-fresh-overview.deno.dev/
 ## Использованы технологии
 - Deno
 - React
+- Typescript
 - Tailwind
 - сервер Fakestore
 
