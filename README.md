@@ -1,11 +1,12 @@
 # fresh project
+React-приложение, показывающее карточки товаров
 
-### Usage
+### Запуск
 
-Start the project:
 
-```
-deno task start
-```
+## Использованы технологии
+- Deno
+- React
+- Tailwind
+- сервер Fakestore
 
-This will watch the project directory and restart as necessary.
